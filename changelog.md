@@ -13,4 +13,3 @@ All notable changes to this project will be documented in this file.
 - README now contains answers to common questions about CHANGELOGs.
 - Good examples and basic guidelines, including proper date formatting.
 - Counter-examples: "What makes unicorns cry?".
-
